@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Current Exchange</string>
+    <string name="amount_in_real">Amount in Brazil Real - R$:</string>
+    <string name="amount_in_dollar">United States Dollar - USD:</string>
+    <string name="amount_in_euro">Euro - €:</string>
+    <string name="Calculate">Calculate</string>
+    <string name="amount">Amount..</string>
+</resources>
